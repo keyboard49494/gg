@@ -1,1 +1,2 @@
-Start-Process explorer.exe
+Write-Host "I am here"
+
